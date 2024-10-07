@@ -1,0 +1,16 @@
+body{
+    background-color:dodgerblue
+}
+
+.blog{
+    position:absolute;
+    background-color: yellow;
+    width:400px;
+    height:300px;
+    left: 40%;
+    top: 40%;
+    border-color:black;
+    border:3px solid black;
+    border-radius:30%;
+    
+}
